@@ -1,4 +1,4 @@
-# Simple-Morse-Code-Translator
+# Simple-Morse-Code-Translator 🧑🏻‍💻
 Simple Morse Code Translator with full TS configuration
 
 # > tsc 
